@@ -1,12 +1,15 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
-import App from "@commons/components/App";
+import { Thing } from "@commons/components";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <div>
+      <p>DESKTOP VERSION</p>
+      <Thing />
+    </div>
   </React.StrictMode>,
   document.getElementById("root")
 );

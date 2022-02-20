@@ -21,7 +21,7 @@
     "jsx": "react-jsx",
     "baseUrl": ".",
     "paths": {
-      "@commons/*": ["../commons/*"],
+      "*": ["src/*", "node_modules/*"]
     }
   },
   "include": [
