@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "projects": {
+    "components": "libs/components",
+    "desktop": "apps/desktop",
+    "desktop-e2e": "apps/desktop-e2e",
+    "mobile": "apps/mobile",
+    "mobile-e2e": "apps/mobile-e2e"
+  }
+}
