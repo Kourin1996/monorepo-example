@@ -171,3 +171,5 @@ $ npx nx g @nrwl/react:lib components
 $ npx nx serve desktop
 $ npx nx serve mobile
 ```
+
+## Bazel
